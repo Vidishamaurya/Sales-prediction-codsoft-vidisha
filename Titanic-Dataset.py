@@ -61,3 +61,4 @@ print(report)
 
 print("\nPassenger count by gender (after encoding):")
 print(df.info())
+print(df.head())
